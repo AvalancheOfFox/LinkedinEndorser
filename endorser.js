@@ -11,6 +11,3 @@ for(i=0; i<skills.length; i++){
    }
 }
 
-
-{/* <button class="pv-profile-section__card-action-bar pv-skills-section__additional-skills artdeco-container-card-action-bar artdeco-button artdeco-button--tertiary artdeco-button--3 artdeco-button--fluid" aria-controls="skill-categories-expanded" aria-expanded="false" data-control-name="skill_details" data-ember-action="" data-ember-action-545="545">
-                  */}
